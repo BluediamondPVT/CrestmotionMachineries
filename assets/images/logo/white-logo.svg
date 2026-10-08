@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 70" width="320" height="70">
+  <g transform="translate(10, 10)">
+    <!-- Industrial Crest/Gear Motion Icon -->
+    <rect x="0" y="2" width="46" height="46" rx="10" fill="#ffffff" />
+    <!-- Gear / Motion polygon -->
+    <path d="M23 7 L27 12 L33 12 L34 18 L39 21 L37 27 L41 32 L37 36 L38 42 L32 43 L28 48 L23 45 L18 48 L14 43 L8 42 L9 36 L5 32 L9 27 L7 21 L12 18 L13 12 L19 12 Z" fill="#0088cc" opacity="0.3"/>
+    <circle cx="23" cy="25" r="14" fill="#0088cc"/>
+    <!-- Crest motion blades -->
+    <path d="M23 15 A10 10 0 0 1 33 25 L28 25 A5 5 0 0 0 23 20 Z" fill="#ffffff" />
+    <path d="M23 35 A10 10 0 0 1 13 25 L18 25 A5 5 0 0 0 23 30 Z" fill="#ffffff" />
+    <circle cx="23" cy="25" r="3.5" fill="#0b2239"/>
+  </g>
+  <!-- Text Brand -->
+  <text x="72" y="35" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="1.5" fill="#ffffff">CRESTMOTION</text>
+  <text x="73" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="4" fill="#38b6ff">MACHINERIES</text>
+</svg>

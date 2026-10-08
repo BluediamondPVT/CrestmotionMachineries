@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#141D24" />
+  <!-- Excavator 'C' Hex in Construction Gold -->
+  <path d="M22 14 L42 14 L40 22 L26 22 L20 28 L20 36 L26 42 L42 42 L40 50 L22 50 L12 40 L12 24 Z" fill="#E5B141" />
+  <!-- Excavator Arm Accent -->
+  <path d="M38 18 L48 28 L42 34 L34 26 Z" fill="#F5C75D" />
+  <circle cx="47" cy="29" r="3.5" fill="#141D24" />
+</svg>
